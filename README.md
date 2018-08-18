@@ -19,7 +19,7 @@ Why use a Distributed Systems? Getting frequent patterns in the data. Associatio
 
 Data Pipeline
 
-
-     Screen Shot 2018-08-17 at 4.32.55 PM.png
-    
+<p align="center">
+  <img src="Screen%20Shot%202018-08-17%20at%204.32.55%20PM.png" width="1000" title="Pipeline">
+</p>    
 
